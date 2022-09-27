@@ -6,7 +6,7 @@ from algosdk import account, mnemonic
 algod_address = "https://testnet-algorand.api.purestake.io/ps2"
 algod_token = ""
 headers = {
-"X-API-Key": "N2HhRd4I739kttVBSjf3o5Ortlv22xtR3CBRLhXs",
+"X-API-Key": "YOUR-PURESTAKE-API-KEY",
 }
 
 # Inicializar um Algod client
